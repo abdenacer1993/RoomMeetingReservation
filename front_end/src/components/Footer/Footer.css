@@ -1,0 +1,9 @@
+.itm1 {
+  text-align: center;
+}
+
+@media (min-width: 900px) {
+  .itm1 {
+    text-align: left;
+  }
+}
